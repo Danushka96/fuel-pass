@@ -1,4 +1,6 @@
-# fuel-pass
+# Fuel Pass Generator
+
+![](https://gcdnb.pbrd.co/images/svNKM4Wwit4T.png?o=1)
 
 ## Project setup
 ```
